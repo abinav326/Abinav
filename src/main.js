@@ -96,7 +96,7 @@ document.querySelector('#app').innerHTML = `
       <div class="section-label reveal">03 / SELECTED WORK</div>
       <div class="projects-head">
         <div><h2 class="reveal">Work that speaks<br /><span>for itself.</span></h2></div>
-        <p class="reveal">Swipe through completed projects. New photos can be added directly to the <code>public/images</code> folder.</p>
+        <p class="reveal">Swipe through our complete works.</p>
       </div>
       <div class="gallery-wrap reveal">
         <div class="gallery" id="gallery">
